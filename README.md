@@ -7,7 +7,7 @@
 ## 💻 Tech Arsenal
 I thrive on building secure, optimized systems and experimenting with modern tech stacks:
 
-- **Languages:** C | C++ | Python | Java | TypeScript | Rust (Learning) | HTML | CSS  
+- **Languages:** C | C++ | Python | Java | TypeScript | Rust (Learning) 
 - **Domains:** Cybersecurity | Digital Forensics | System Hygiene | Purple Teaming  
 - **Cybersecurity Tools:** Nmap | Metasploit | Wireshark | John the Ripper | Autopsy | Burp Suite | Aircrack-ng | Trivy  
 - **Platforms & Learning:**  
