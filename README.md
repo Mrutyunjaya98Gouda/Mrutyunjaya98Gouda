@@ -10,19 +10,6 @@ I thrive on building secure, optimized systems and experimenting with modern tec
 - **Languages:** C | C++ | Python | Java | TypeScript | Rust (Learning) 
 - **Domains:** Cybersecurity | Digital Forensics | System Hygiene | Purple Teaming  
 - **Cybersecurity Tools:** Nmap | Metasploit | Wireshark | John the Ripper | Autopsy | Burp Suite | Aircrack-ng | Trivy  
-- **Platforms & Learning:**  
-  - 🕵️ TryHackMe  
-  - 🧩 OverTheWire  
-  - 🔓 HackTheBox  
-  - 🧑‍💻 LeetCode  
-  - 🎓 GUVI  
-  - 🏢 IBM SkillBuild  
-  - 🌐 Cisco Networking Academy  
-  - 📘 Microsoft Learn  
-  - 🔍 Google Skills  
-  - 🟢 HackerRank  
-  - ☁️ AWS Learning  
-  - ☁️ Azure Learning  
 
 ---
 
@@ -56,30 +43,18 @@ I thrive on building secure, optimized systems and experimenting with modern tec
 
 ---
 
-## 📊 Current Projects
-- 🔐 [CyberEye](https://github.com/Mrutyunjaya98Gouda/CyberEye) — Security-focused project for monitoring, analysis, and system defense  
-- 🛡️ [Security-Systems](https://github.com/Mrutyunjaya98Gouda/Security-Systems) — Modules and experiments for resilient system security  
-- 🛡️ [Security-Projects](https://github.com/Mrutyunjaya98Gouda/Security-Projects) — Cybersecurity research, penetration testing, and Purple Team simulations  
-- 🌐 [BasicBrowser](https://github.com/sreyas28/BasicBrowser) *(collaboration)* — Lightweight custom browser for experimentation and learning  
-
----
-
 ## 🌱 Active Learning Journey
 I actively sharpen my skills through hands-on platforms and global learning hubs:
-- 🕵️ TryHackMe  
-- 🧩 OverTheWire  
-- 🔓 HackTheBox  
-- 💡 LeetCode 
-- 🟢 HackerRank
-- 📗 GeeksforGeeks
-- 🎓 GUVI  
-- 🏢 IBM SkillBuild  
-- 🌐 Cisco Networking Academy  
-- 📘 Microsoft Learn  
-- 🔍 Google Skills  
 
-- ☁️ AWS Learning  
-- ☁️ Azure Learning  
+| 🕵️ TryHackMe | 🧩 OverTheWire |
+|--------------|----------------|
+| 🔓 HackTheBox | 💡 LeetCode |
+| 🟢 HackerRank | 📗 GeeksforGeeks |
+| 🎓 GUVI | 🏢 IBM SkillBuild |
+| 🌐 Cisco Networking Academy | 📘 Microsoft Learn |
+| 🔍 Google Skills | ☁️ AWS Learning |
+| ☁️ Azure Learning |                |
+
 
 ---
 
