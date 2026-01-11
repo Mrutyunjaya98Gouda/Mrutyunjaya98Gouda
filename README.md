@@ -42,6 +42,8 @@ Burp Suite | Trivy | Nikto | Medusa | OWASP ZAP | Wfuzz |�
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ISC²](https://img.shields.io/badge/ISC²-006400?style=for-the-badge&logo=isc2&logoColor=white)
+
 
 ---
 
@@ -76,7 +78,7 @@ I actively sharpen my skills through hands-on platforms and global learning hubs
 - 🌐 [Cisco Networking Academy](https://www.netacad.com)  
 - 📘 [Microsoft Learn](https://learn.microsoft.com)  
 - 🔍 [Google Skills](https://skillshop.exceedlms.com/student/catalog)  
-
+- 🛡️ [ISC² Cybersecurity Learning](https://www.isc2.org/Training)  
 ---
 
 ## 🎯 Future Goals 
