@@ -46,15 +46,28 @@ I thrive on building secure, optimized systems and experimenting with modern tec
 ## 🌱 Active Learning Journey
 I actively sharpen my skills through hands-on platforms and global learning hubs:
 
+### 🛡️ Cybersecurity Platforms
 | 🕵️ TryHackMe | 🧩 OverTheWire |
 |--------------|----------------|
-| 🔓 HackTheBox | 💡 LeetCode |
-| 🟢 HackerRank | 📗 GeeksforGeeks |
-| 🎓 GUVI | 🏢 IBM SkillBuild |
-| 🌐 Cisco Networking Academy | 📘 Microsoft Learn |
-| 🔍 Google Skills | ☁️ AWS Learning |
-| ☁️ Azure Learning |                |
+| 🔓 HackTheBox | 🌐 Cisco Networking Academy |
 
+---
+
+### 💻 Coding Platforms
+| 💡 LeetCode | 🟢 HackerRank |
+|-------------|---------------|
+| 📗 GeeksforGeeks | 🎓 GUVI |
+
+---
+
+### ☁️ Cloud Learning
+| ☁️ AWS Learning | ☁️ Azure Learning |
+
+---
+
+### 🏢 Enterprise & Networking Platforms
+| 🏢 IBM SkillBuild | 🌐 Cisco Networking Academy |
+| 📘 Microsoft Learn | 🔍 Google Skills |
 
 ---
 
